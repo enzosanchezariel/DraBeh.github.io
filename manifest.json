@@ -1,0 +1,35 @@
+{
+    "id": "com.arichez.drabeh",
+    "name": "Drabeh",
+    "short_name": "Drabeh",
+    "start_url": "/home",
+    "scope": "/",
+    "description": "Drabeh is a drawing sharing platform",
+    "display": "standalone",
+    "orientation": "any",
+    "dir": "ltr",
+    "lang": "en",
+    "theme_color": "#fecc63",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/icons/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshots/screenshot-wide.png",
+            "sizes": "1024x593",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/screenshots/screenshot-narrow.png",
+            "sizes": "540x720",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ]
+}
