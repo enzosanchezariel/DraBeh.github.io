@@ -1,1 +1,1 @@
-export const env={"PUBLIC_BACKEND_URL":"http://149.50.147.161:8080","PUBLIC_SYSTEM_EMAIL":"ari.chez.art@gmail.com"}
+export const env={"PUBLIC_BACKEND_URL":"https://vps-4686387-x.dattaweb.com","PUBLIC_SYSTEM_EMAIL":"ari.chez.art@gmail.com"}
